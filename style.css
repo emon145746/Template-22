@@ -1,0 +1,119 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.min-bg{
+    background-color: ghostwhite;
+}
+/* Header Section */
+.header-logo
+{
+    width: 100px;
+}
+.navbar .first-ul{
+    margin-left: -40px;
+}
+/* Banner section */
+.banner{
+    background-color: ghostwhite;
+}
+.banner h4{
+    margin-top: 80px;
+}
+.banner h1{
+    font-weight: 500;
+}
+
+.banner_title .btn {
+    background-color: #8490ff ;
+    font-size: 16px;
+    color: #fff;
+    font-weight: bold;
+    padding: 8px 19px;
+}
+
+/* About me asecttiuon */
+
+.about_me .about-img{
+    border: 1px solid rgb(228,231,234);
+}
+.about_me_title .btn{
+    background-color: #8490ff;
+    color: #fff;
+    padding: 8px 19px;
+}
+/* count-section*/
+.count{
+    background-color: #8490ff ;
+
+}
+
+/* priceing-table */
+.card_item h1 {
+    background-color: ghostwhite;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    display: inline-block;
+    margin-left: auto;
+}
+.card_item .card_item_list li {
+    list-style: none;
+    padding: 10px 7px;
+    font-size: 19px;
+    color: #767676;
+    font-weight: 400;
+}
+.card_item .btn {
+    background: #fff;
+    padding: 8px 22px;
+    box-shadow: 5px 4px 30px 0px rgb(158 156 234 / 51%);
+    border-width: 2px;
+    border-color: #8490ff;
+    border-radius: 5px;
+}
+.card_item .btn a{
+    text-decoration: none;
+    color: #8490ff;
+    display: inline-block;
+    font-size: 23px;
+}
+/* form_section */
+
+.card_form input{
+    font-size: 20px;
+    padding: 0px 20px;
+}
+.card_form textarea{
+    font-size: 20px;
+}
+.card_form .btn {
+    padding: 7px 12px;
+    font-size: 17px;
+    background-color: #17a2b8;
+}
+.form_details
+{
+    margin-top: 15px;
+}
+
+/* feature section */
+.user_details img 
+{
+    position: relative;
+    top: 43px;
+    left: 18px;
+    width: 90px;
+
+}
+.feature_section .btn{
+    margin-bottom: 40px;
+}
+/* footer_section */
+.footer_section
+{
+    background-color: rgb(4,9,30);
+}
